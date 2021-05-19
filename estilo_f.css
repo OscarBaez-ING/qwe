@@ -1,0 +1,18 @@
+.container{
+	text-align: justify;
+	color: black;
+	font-size: 25px;
+}
+h1{
+	color: white;
+}
+body{
+	background-image: url(images/fin.jpg);
+
+
+}
+nav ul li :hover{
+    color: #e44e2d;
+    border-radius: 5px;
+    font-size: 27px;
+}

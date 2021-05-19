@@ -1,0 +1,25 @@
+.container{
+	text-align: justify;
+	color: white;
+	font-size: 25px;
+}
+h1{
+	color: white;
+}
+body{
+	background-image: url(images/inicio_2.jpg);
+
+
+}
+nav ul li :hover{
+    color: #e44e2d;
+    border-radius: 5px;
+    font-size: 27px;
+}
+#ns{
+
+	background-color: 	#EE82EE;
+	box-shadow: 2px 3px 4px 0px black;
+	font-size: 18px;
+	text-align: justify;
+}
